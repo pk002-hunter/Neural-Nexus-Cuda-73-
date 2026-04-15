@@ -17,3 +17,5 @@ py -3.12 app.py
 # Open in browser
 http://localhost:5000
 
+![output](templates/Screenshot(68).png)
+![output](templates/Screenshot(69).png)
